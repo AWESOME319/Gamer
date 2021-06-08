@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: fantasy;
+    color: cornflowerblue;
+}
+
+#apps {
+    background-color: deeppink;
+    height: 700px;
+    width: 100%;
+    margin: 20px;
+}
+
+#carousel{
+    background-color: goldenrod;
+}
+
+img:hover {
+    transform: scale(0.5);
+}
+
+img {
+    transition: 0.1s;
+}
+
+
+#carousel2{
+    background-color:darkseagreen;
+   
+}
